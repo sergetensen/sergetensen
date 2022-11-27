@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergetensen
-- 👀 I’m interested in IP networking, mobile working, PKI, authentication
-- 🌱 I’m currently learning PKI, OPNsense, smartcards, Azure networking
+- 👀 I’m interested in IP networking, mobile working, PKI, authentication, penteting, shell-scripts
+- 🌱 I’m currently learning PKI, bash-customizing to improve productivity, smartcards
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: s.tensen@netboss.nl
 
