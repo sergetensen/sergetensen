@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergetensen
-- 👀 I’m interested in IP networking, mobile working, PKI, authentication, penteting, shell-scripts, Zero Trust
+- 👀 I’m interested in IP networking, mobile working, PKI, authentication, pen-testing, shell-scripts, Zero Trust
 - 🌱 I’m currently learning PKI, Fido2, Ansible, e-mail security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: s.tensen@netboss.nl
