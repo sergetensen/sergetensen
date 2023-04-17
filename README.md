@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sergetensen
+- 👋 Hi, I’m Serge Tensen
 - 👀 I’m interested in IP networking, mobile working, PKI, authentication, pen-testing, shell-scripts, Zero Trust
 - 🌱 I’m currently learning PKI, Fido2, e-mail security, ssh-proxy tunnels
 - 💞️ I’m looking to collaborate on ...
